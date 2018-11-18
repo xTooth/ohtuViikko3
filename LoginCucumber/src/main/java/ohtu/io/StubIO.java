@@ -1,8 +1,12 @@
 package ohtu.io;
 
+
+
+import org.springframework.stereotype.Component;
+
 import java.util.ArrayList;
 import java.util.List;
-
+@Component
 public class StubIO implements IO {
 
     private List<String> lines;
@@ -11,6 +15,10 @@ public class StubIO implements IO {
 
     public StubIO(List<String> values) {
         this.lines = values;
+        prints = new ArrayList<>();
+    }
+    public StubIO() {
+        this.lines = new ArrayList<String>();
         prints = new ArrayList<>();
     }
 

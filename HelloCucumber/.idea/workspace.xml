@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91f62e73-3f06-40ab-acac-f8241aabc30e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/ohtu/Stepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ohtu/Stepdefs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/ohtu/resetingCounter.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/ohtu/resetingCounter.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kurssistatistiikka/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Kurssistatistiikka/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kurssistatistiikka/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Kurssistatistiikka/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kurssistatistiikka/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Kurssistatistiikka/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kurssistatistiikka/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Kurssistatistiikka/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kurssistatistiikka/build/classes/java/main/ohtu/Course.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kurssistatistiikka/build/classes/java/main/ohtu/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kurssistatistiikka/build/classes/java/main/ohtu/Statistics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kurssistatistiikka/build/classes/java/main/ohtu/Submission.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kurssistatistiikka/build/distributions/Kurssistatistiikka.tar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kurssistatistiikka/build/distributions/Kurssistatistiikka.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kurssistatistiikka/build/libs/Kurssistatistiikka.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kurssistatistiikka/build/scripts/Kurssistatistiikka" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kurssistatistiikka/build/scripts/Kurssistatistiikka.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Kurssistatistiikka/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
-    </list>
+    <list default="true" id="91f62e73-3f06-40ab-acac-f8241aabc30e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,6 +19,7 @@
     <session id="-104632342">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -473,7 +457,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542398527415" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542399975077" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
